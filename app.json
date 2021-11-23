@@ -1,0 +1,12 @@
+{
+  "name": "monumental-habits",
+  "displayName": "monumental-habits",
+  "expo": {
+    "name": "monumental-habits",
+    "slug": "monumental-habits",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
