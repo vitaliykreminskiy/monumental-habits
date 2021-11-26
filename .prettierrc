@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "none",
+  "prettier.semi": false
+}
